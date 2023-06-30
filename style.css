@@ -1,0 +1,22 @@
+body {
+  width: 850px;
+  font-family: sans-serif;
+}
+div.Hero {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 450px;
+background-image: url("supernova.png");
+}
+h1 {
+  color:white;
+  font-size: 75px;
+}
+
+section {
+  display: flex;
+  justify-content: space-around;
+  height: 324px;
+  background-color: gainsboro;
+}
